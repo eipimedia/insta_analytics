@@ -1,0 +1,52 @@
+[
+    {
+        "username": "janhvikapoor",
+        "totalLikes": 3752978,
+        "totalViews": 28981707,
+        "totalComments": 18696,
+        "avgLikes": 312748.1666666667,
+        "avgViews": 2415142.25,
+        "avgComments": 1558.0,
+        "avgEngagement": 0.10455686613023134
+    },
+    {
+        "username": "ananyapanday",
+        "totalLikes": 1042025,
+        "totalViews": 5829935,
+        "totalComments": 5681,
+        "avgLikes": 94729.54545454546,
+        "avgViews": 529994.0909090909,
+        "avgComments": 516.4545454545455,
+        "avgEngagement": 0.024141759527548837
+    },
+    {
+        "username": "dishapatani",
+        "totalLikes": 5253004,
+        "totalViews": 31629344,
+        "totalComments": 35899,
+        "avgLikes": 477545.8181818182,
+        "avgViews": 2875394.909090909,
+        "avgComments": 3263.5454545454545,
+        "avgEngagement": 0.05452680112219063
+    },
+    {
+        "username": "saraalikhan95",
+        "totalLikes": 4137681,
+        "totalViews": 34504135,
+        "totalComments": 16866,
+        "avgLikes": 344806.75,
+        "avgViews": 2875344.5833333335,
+        "avgComments": 1405.5,
+        "avgEngagement": 0.07037133133969979
+    },
+    {
+        "username": "shanayakapoor02",
+        "totalLikes": 130103,
+        "totalViews": 2345849,
+        "totalComments": 1371,
+        "avgLikes": 65051.5,
+        "avgViews": 1172924.5,
+        "avgComments": 685.5,
+        "avgEngagement": 0.504847699339932
+    }
+]
